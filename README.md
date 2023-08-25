@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://weplaywithfirehere.files.wordpress.com/2023/08/img_7076.jpg" alt="XSS Vulnerability Demo Logo" width="200"/>
+  <img src="https://github.com/tukru/nohing/blob/main/17105451.jpeg" alt="XSS Vulnerability Demo Logo" width="200"/>
 </p>
 
 <h1 align="center">𖤐 Persistent Cross-Site Scripting (XSS) Vulnerability Demo 𖤐</h1>
